@@ -19,6 +19,7 @@
 
 - **Primary Drinks**: Americanos (1:5 ratio, double shot, boiling kettle water from Fellow Stagg EKG at 205°F added to shot)
 - **Latte**: Lactose intolerant — not a regular drinker, but practicing latte art with oat, almond, and low-fat milk. Microfoam is the current struggle (Gaggia Classic Pro's single-hole steam tip is underpowered).
+- **Preferred Alt-Milk**: Califia Farms Barista Blend Oat Milk ([Amazon](https://www.amazon.com/dp/B07PBFNYXV)) — arrives 2026-04-30. Steam ceiling 60-65°C (lower than dairy's 65-70°C). Pour milk into espresso to soften pH transition.
 - **Other Brewing**: Blue Bottle pour-over kit for filter coffee (2-3 cups a day after the morning Americano)
 - **Daily Rhythm**: First Americano around 6:30 AM, then 1-2 more cups of Americano or pour-over through the day
 - **Taste Profile**: Prefers clean, articulate flavor — lighter texture over heavy/syrupy body. Mild acidity welcome; sweetness-forward shots preferred. Medium to medium-dark roasts are the sweet spot.
