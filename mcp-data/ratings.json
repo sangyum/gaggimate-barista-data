@@ -31,5 +31,16 @@
     "dose_out": 40.4,
     "bean_type": null,
     "timestamp": "2026-04-25T11:58:02.545146"
+  },
+  "000078": {
+    "shot_id": "000078",
+    "rating": 4,
+    "notes": "[Updated by AI]: Cortado attempt. A bit sour but overall satisfying. SCALE ANOMALY: scale was bouncing pre-shot with empty cup (Gibraltar glass may be heavier than typical cup) \u2014 predictive stop fired on bad data. Reported 45g out is unreliable. Don't change profile/grind based on this shot \u2014 repeat with scale tared and verified first.",
+    "balance_taste": "sour",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 45.0,
+    "bean_type": null,
+    "timestamp": "2026-04-25T15:47:05.974534"
   }
 }
