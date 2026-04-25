@@ -20,5 +20,16 @@
     "dose_out": 40.6,
     "bean_type": null,
     "timestamp": "2026-04-25T10:52:33.998615"
+  },
+  "000077": {
+    "shot_id": "000077",
+    "rating": 5,
+    "notes": "[Updated by AI]: Fuller body, stronger flavor. +1\u00b0C bump (93\u219294) unlocked the depth. Same yield as shot 76 (40.4g), but at 94\u00b0C target the cup is properly developed. Dialed in \u2014 this is the working profile.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 40.4,
+    "bean_type": null,
+    "timestamp": "2026-04-25T11:58:02.545146"
   }
 }
