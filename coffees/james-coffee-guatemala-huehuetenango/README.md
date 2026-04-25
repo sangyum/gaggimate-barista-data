@@ -41,6 +41,7 @@ A classic washed Guatemalan from the Huehuetenango highlands at medium-dark roas
 | 4 | Apr 22 | 000067 | DF64 9.5 | 18/38g | 1:2.11 | James Huehuetenango [AI] | Balanced | ★★★★ | Used for latte experiment — milk overshadowed shot taste. Shot extraction normal; same settings as #66. |
 | 5 | Apr 23 | 000068 | DF64 9.5 | 18/38.6g | 1:2.14 | James Huehuetenango [AI] | Bitter | ★★★ | Bland, less body. Same recipe as #66/#67 but 56.6s total (vs 45s). Severe choke — peak resistance 25.4, no flow for first 13s of brew. Likely puck prep issue. |
 | 6 | Apr 23 | 000071 | DF64 9.5 | 18/38.6g | 1:2.14 | James Huehuetenango [AI] | Balanced | ★★★★★ | Latte with 3-leaf tulip. Milk-forward, coffee present. RDT (wet teaspoon) + deeper WDT — puck prep sorted. |
+| 7 | Apr 24 | 000075 | DF64 9.5 | 18/38g | 1:2.11 | James Huehuetenango [AI] | Balanced | ★★★★★ | Latte with symmetric tulip. Balanced but mild/bland in cup — milk likely flattening flavor. Consider +1°C or 1:1.7 for more intensity under milk. |
 
 ### Starting parameters (baseline)
 - **Grind:** DF64 9.2 (roughly 1 micro step coarser than Mostra Philippines Heritage baseline of 9, biased for freshness)

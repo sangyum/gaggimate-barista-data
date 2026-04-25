@@ -1,0 +1,24 @@
+{
+  "000075": {
+    "shot_id": "000075",
+    "rating": 5,
+    "notes": "[Updated by AI]: Latte, symmetric tulip pour (progression from 3-leaf tulip on #71). Coffee came through balanced but mild/bland in the cup. Same recipe as #66/#67/#71 (18g \u2192 38g, DF64 9.5, 91\u00b0C, James Huehuetenango [AI]). Consider +1\u00b0C to 92\u00b0C or 1:1.7 ratio if milkiness continues to flatten flavor.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 38.0,
+    "bean_type": null,
+    "timestamp": "2026-04-24T12:56:02.820300"
+  },
+  "000076": {
+    "shot_id": "000076",
+    "rating": 4,
+    "notes": "[Updated by AI]: Fuller body, stronger/darker character than Huehue. Less red berry lift than the README forecast \u2014 chocolate-leaning. Yield overshot target (40.6g vs 38g target = 1:2.26 vs 1:2.11). Solid working baseline.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 40.6,
+    "bean_type": null,
+    "timestamp": "2026-04-25T10:52:33.998615"
+  }
+}

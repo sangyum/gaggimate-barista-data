@@ -13,6 +13,8 @@ A personal record of successful grind settings that grows from your shots. When 
 | James Huehuetenango | Medium-Dark | Washed | Guatemala (Huehuetenango) | ~1-11 | DF64 9.2 | James Huehuetenango [AI] (lever decline) | 1:2.07 | 91°C | 4 | Apr 22 |
 | James Huehuetenango | Medium-Dark | Washed | Guatemala (Huehuetenango) | ~1-11 | DF64 9.5 | James Huehuetenango [AI] (lever decline) | 1:2.13 | 91°C | 5 | Apr 22 |
 | James Huehuetenango (latte) | Medium-Dark | Washed | Guatemala (Huehuetenango) | ~2-12 | DF64 9.5 | James Huehuetenango [AI] (lever decline) | 1:2.14 | 91°C | 5 | Apr 23 |
+| James Huehuetenango (latte) | Medium-Dark | Washed | Guatemala (Huehuetenango) | ~3-13 | DF64 9.5 | James Huehuetenango [AI] (lever decline) | 1:2.11 | 91°C | 5 | Apr 24 |
+| James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:2.26 | 93°C | 4 | Apr 25 |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 

@@ -8,7 +8,7 @@
 | **Shower Assembly** | Brass shower holder + [IMS precision shower screen](https://www.amazon.com/dp/B0D48R2T6P) (silicone gasket, stainless steel screws) |
 | **Grinder** | Turin DF64 Gen 2 Single Dose Coffee Grinder |
 | **Basket** | IMS Baristapro Nanotech 18g (ridgeless) |
-| **Scale** | [Smart Kitchen Scales - Aliexpress (Bluetooth)](https://www.aliexpress.us/item/3256810573003222.html), auto-stop enabled, 250ms predictive delay |
+| **Scale** | [Smart Kitchen Scales - Aliexpress (Bluetooth)](https://www.aliexpress.us/item/3256810573003222.html), auto-stop enabled, 400ms predictive delay |
 
 ## Workflow
 
@@ -34,9 +34,9 @@
 
 ## Active Coffee
 
-- **Coffee**: James Coffee Co — Guatemala "Huehuetenango"
-- **Directory**: `coffees/james-coffee-guatemala-huehuetenango/`
-- **Roast Date**: ~2026-04-11 to 04-25 (estimated from enjoy-by 2026-06-06, purchased 2026-04-21)
+- **Coffee**: James Coffee Co — Colombia Washed Finca Palmichal
+- **Directory**: `coffees/james-coffee-colombia-finca-palmichal/`
+- **Roast Date**: TBD — check bag (purchased 2026-04-21 alongside the Guatemala)
 
 ## Bluetooth Scale & Auto-Stop
 
