@@ -8,7 +8,7 @@
 | **Shower Assembly** | Brass shower holder + [IMS precision shower screen](https://www.amazon.com/dp/B0D48R2T6P) (silicone gasket, stainless steel screws) |
 | **Grinder** | Turin DF64 Gen 2 Single Dose Coffee Grinder |
 | **Basket** | IMS Baristapro Nanotech 18g (ridgeless) |
-| **Scale** | [Smart Kitchen Scales - Aliexpress (Bluetooth)](https://www.aliexpress.us/item/3256810573003222.html), auto-stop enabled, 400ms predictive delay |
+| **Scale** | [Smart Kitchen Scales - Aliexpress (Bluetooth)](https://www.aliexpress.us/item/3256810573003222.html), auto-stop enabled, 500ms brew predictive delay (Auto Adjust OFF, Grind delay 1000ms) |
 
 ## Workflow
 
