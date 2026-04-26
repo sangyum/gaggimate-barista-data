@@ -42,5 +42,16 @@
     "dose_out": 45.0,
     "bean_type": null,
     "timestamp": "2026-04-25T15:47:05.974534"
+  },
+  "000080": {
+    "shot_id": "000080",
+    "rating": 4,
+    "notes": "[Updated by AI]: First neat espresso from this Colombia bag. Sour but full body and nice finish \u2014 4\u2605 overall. Same recipe as 5\u2605 shot 77 (DF64 9.5, 18g, 94\u00b0C profile). Scale behaved cleanly today (regular shot glass, not the heavy Gibraltar). Hypotheses for the sourness vs shot 77's balance: (a) first shot of morning = cold brass shower under-extracts, (b) scale worked = yield landed at target ~38g instead of yesterday's overshoot to 40g, less mask = more acidity, (c) tasting neat for first time vs in Americano/cortado where milk/water mask acidity. Telemetry timed out \u2014 yield estimated.",
+    "balance_taste": "sour",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": null,
+    "bean_type": null,
+    "timestamp": "2026-04-26T16:40:36.162607"
   }
 }
