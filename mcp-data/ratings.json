@@ -53,5 +53,27 @@
     "dose_out": null,
     "bean_type": null,
     "timestamp": "2026-04-26T16:40:36.162607"
+  },
+  "000083": {
+    "shot_id": "000083",
+    "rating": 3,
+    "notes": "[Updated by AI]: Latte w/ Califia oat milk. Thin body, no sweetness, short finish. Shot too thin for milk context \u2014 need shorter ratio (~33g) for milk drinks. Oat milk technique: over-stretched (5-6s dairy habit), large bubbles dissolved on pour. Fix: 2-3s stretch max, roll to 60-62\u00b0C.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 38.0,
+    "bean_type": null,
+    "timestamp": "2026-04-27T10:20:06.605923"
+  },
+  "000087": {
+    "shot_id": "000087",
+    "rating": 4,
+    "notes": "[Updated by AI]: Clean balanced shot; medium body, present sweetness, clean finish; aerocano",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 39.7,
+    "bean_type": "James Coffee Co \u2014 Colombia Washed Finca Palmichal",
+    "timestamp": "2026-04-28T06:52:52.060746"
   }
 }

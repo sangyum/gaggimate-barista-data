@@ -17,7 +17,7 @@
 
 ## Preferences
 
-- **Primary Drinks**: Americanos (1:5 ratio, double shot, boiling kettle water from Fellow Stagg EKG at 205°F added to shot)
+- **Primary Drinks**: Aerocanos (1:5 ratio, double shot — pull shot first, then steam water via machine wand into cup, add shot on top). Steamed water gives smoother texture than flat kettle water. Fellow Stagg EKG still used for pour-over.
 - **Latte**: Lactose intolerant — not a regular drinker, but practicing latte art with oat, almond, and low-fat milk. Microfoam is the current struggle (Gaggia Classic Pro's single-hole steam tip is underpowered).
 - **Preferred Alt-Milk**: Califia Farms Barista Blend Oat Milk ([Amazon](https://www.amazon.com/dp/B07PBFNYXV)) — arrives 2026-04-30. Steam ceiling 60-65°C (lower than dairy's 65-70°C). Pour milk into espresso to soften pH transition.
 - **Other Brewing**: Blue Bottle pour-over kit for filter coffee (2-3 cups a day after the morning Americano)
