@@ -18,6 +18,7 @@ A personal record of successful grind settings that grows from your shots. When 
 | James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:2.24 | 94°C | 5 | Apr 25 |
 | James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:~2.2 | 94°C | 4 | Apr 26 |
 | James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:2.21 | 94°C | 4 | Apr 28 | |
+| James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:2.22 | 94°C | 4 | Apr 29 | |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 

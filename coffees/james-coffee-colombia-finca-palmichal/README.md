@@ -42,6 +42,7 @@ A classic washed Colombian from a third-generation smallholder in Quindío, roas
 | 4 | Apr 26 | 80 | DF64 9.5 | 18/~40g* | 1:~2.2* | Bloom [AI] @ 94°C | Sour | 4 | First neat espresso from this bag; full body, nice finish; scale clean (telemetry timed out — yield estimated) |
 | 5 | Apr 27 | 83 | DF64 9.5 | 18/~38g* | 1:~2.1* | Bloom [AI] @ 94°C | Balanced | 3 | Latte w/ Califia oat milk — thin body, no sweetness, short finish; milk masked extraction; shot needs concentration for milk context |
 | 6 | Apr 28 | 87 | DF64 9.5 | 18/39.7g | 1:2.21 | Bloom [AI] @ 94°C | Balanced | 4 | Clean balanced shot; medium body, present sweetness, clean finish; aerocano |
+| 7 | Apr 29 | 93 | DF64 9.5 | 18/39.9g | 1:2.22 | Bloom [AI] @ 94°C | Balanced | 4 | Espresso neat; full body, present sweetness, clean finish; citrus + chocolate |
 
 ### Starting parameters (baseline)
 - **Grind:** DF64 9.5 (same as Huehue — one roast-level delta is offset by Castillo's higher solubility vs. Huehue's mixed-variety blend)

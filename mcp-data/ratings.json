@@ -75,5 +75,16 @@
     "dose_out": 39.7,
     "bean_type": "James Coffee Co \u2014 Colombia Washed Finca Palmichal",
     "timestamp": "2026-04-28T06:52:52.060746"
+  },
+  "000093": {
+    "shot_id": "000093",
+    "rating": 4,
+    "notes": "[Updated by AI]: Espresso neat. Full body, present sweetness, clean finish. Citrus + chocolate. 1:2.22 ratio, 32.7s main extraction. Dialed in.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 39.9,
+    "bean_type": "James Coffee Co \u2014 Colombia Washed Finca Palmichal",
+    "timestamp": "2026-04-29T08:54:04.462649"
   }
 }
