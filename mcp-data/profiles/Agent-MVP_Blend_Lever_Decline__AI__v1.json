@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "profile_name": "MVP Blend Lever Decline [AI]",
+  "timestamp": "2026-05-01T14:01:34.192352",
+  "profile": {
+    "id": "kELv9IzKbs",
+    "label": "MVP Blend Lever Decline [AI]",
+    "type": "pro",
+    "description": "Profile: MVP Blend Lever Decline [AI]",
+    "temperature": 91,
+    "favorite": false,
+    "selected": false,
+    "utility": false,
+    "phases": [
+      {
+        "name": "Fill",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 1,
+          "flow": 4
+        }
+      },
+      {
+        "name": "Pre-infusion",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 1,
+          "flow": 1.5
+        }
+      },
+      {
+        "name": "Ramp",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 6,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 8.5,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "pressure",
+            "operator": "gte",
+            "value": 8.5
+          }
+        ]
+      },
+      {
+        "name": "Decline",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 45,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "duration": 30,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 5.5,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "volumetric",
+            "operator": "gte",
+            "value": 38
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "action": "create",
+    "temperature": 91.0,
+    "phase_count": 4
+  }
+}
