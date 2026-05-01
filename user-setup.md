@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: James Coffee Co — Colombia Washed Finca Palmichal
-- **Directory**: `coffees/james-coffee-colombia-finca-palmichal/`
-- **Roast Date**: TBD — check bag (purchased 2026-04-21 alongside the Guatemala)
+- **Coffee**: Mostra Coffee — Ghost Bear
+- **Directory**: `coffees/mostra-ghost-bear/`
+- **Roast Date**: April 28, 2026
 
 ## Bluetooth Scale & Auto-Stop
 
