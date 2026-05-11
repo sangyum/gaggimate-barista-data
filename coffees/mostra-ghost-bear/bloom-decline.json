@@ -50,7 +50,7 @@
       "temperature": 0,
       "transition": { "type": "linear", "duration": 30, "adaptive": true },
       "pump": { "target": "pressure", "pressure": 6, "flow": 0 },
-      "targets": [{ "type": "volumetric", "operator": "gte", "value": 40 }]
+      "targets": [{ "type": "volumetric", "operator": "gte", "value": 38 }]
     }
   ]
 }

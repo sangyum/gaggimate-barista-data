@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "profile_name": "Ghost Bear Bloom Decline [AI]",
+  "timestamp": "2026-05-11T09:46:29.362806",
+  "profile": {
+    "id": "2anvlDoaCN",
+    "label": "Ghost Bear Bloom Decline [AI]",
+    "type": "pro",
+    "description": "Profile: Ghost Bear Bloom Decline [AI]",
+    "temperature": 93,
+    "favorite": false,
+    "selected": false,
+    "utility": false,
+    "phases": [
+      {
+        "name": "Fill",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 5,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 2,
+          "flow": 2
+        }
+      },
+      {
+        "name": "Bloom",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 10,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 0,
+          "flow": 0
+        }
+      },
+      {
+        "name": "Ramp",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "duration": 4,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 8.5,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "pressure",
+            "operator": "gte",
+            "value": 8.5
+          }
+        ]
+      },
+      {
+        "name": "Hold",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 8,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 8.5,
+          "flow": 0
+        }
+      },
+      {
+        "name": "Decline",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 50,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "duration": 30,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 6,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "volumetric",
+            "operator": "gte",
+            "value": 38
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "action": "update",
+    "temperature": 93,
+    "phase_count": 5
+  }
+}
