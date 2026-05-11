@@ -35,8 +35,8 @@
 
 ## Active Coffee
 
-- **Coffee**: Mostra Coffee — MVP Blend
-- **Directory**: `coffees/mostra-mvp-blend/`
+- **Coffee**: Mostra Coffee — Ghost Bear
+- **Directory**: `coffees/mostra-ghost-bear/`
 - **Roast Date**: April 28, 2026
 
 ## Bluetooth Scale & Auto-Stop
