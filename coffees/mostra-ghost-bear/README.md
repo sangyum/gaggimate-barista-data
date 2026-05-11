@@ -29,3 +29,7 @@ Ghost Bear is a four-origin espresso blend anchored by the Philippines Sitio Bel
 | Ghost Bear Bloom Decline [AI] | Bloom + Decline | 92°C | 8.5 bar → 6 bar | 1:2.2 | [bloom-decline.json](bloom-decline.json) |
 
 ## Tasting Notes
+
+| # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
+|---|------|------|-------|--------|-------|---------|---------|-------|--------------|
+| 1 | May 11 | 000098 | DF64 9.5 | 18/41.6g | 1:2.3 | Bloom Decline | Balanced | 4 | Full body, clean finish, chocolate + stone fruit. Sweetness absent — actual temp ran 0.7°C cool. |

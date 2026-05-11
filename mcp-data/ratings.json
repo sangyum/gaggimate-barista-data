@@ -86,5 +86,16 @@
     "dose_out": 39.9,
     "bean_type": "James Coffee Co \u2014 Colombia Washed Finca Palmichal",
     "timestamp": "2026-04-29T08:54:04.462649"
+  },
+  "000098": {
+    "shot_id": "000098",
+    "rating": 4,
+    "notes": "[Updated by AI]: Full body, clean finish. Chocolate + stone fruit. Sweetness absent \u2014 actual temp ran 0.7\u00b0C below 92\u00b0C target. Try 93\u00b0C profile next.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 41.6,
+    "bean_type": "Mostra Coffee \u2014 Ghost Bear",
+    "timestamp": "2026-05-11T09:42:46.953145"
   }
 }

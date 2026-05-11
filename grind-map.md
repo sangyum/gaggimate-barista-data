@@ -19,6 +19,7 @@ A personal record of successful grind settings that grows from your shots. When 
 | James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:~2.2 | 94°C | 4 | Apr 26 |
 | James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:2.21 | 94°C | 4 | Apr 28 | |
 | James Colombia Finca Palmichal | Medium | Washed | Colombia (Quindío) | — | DF64 9.5 | James Colombia Bloom [AI] (true bloom + decline) | 1:2.22 | 94°C | 4 | Apr 29 | |
+| Mostra Ghost Bear | Medium | Pulped Natural + Washed (blend) | Philippines + Latin America | 13 | DF64 9.5 | Ghost Bear Bloom Decline [AI] | 1:2.31 | 92°C | 4 | May 11 | |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 
