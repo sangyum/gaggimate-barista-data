@@ -1,0 +1,46 @@
+{
+  "label": "Lavazza Pre-infusion 9bar [AI]",
+  "type": "pro",
+  "description": "100% Arabica Italian commodity blend, intensity 5. 18g in / 38g out @ 93°C. 6s soft pre-infusion at 3 bar → 9 bar plateau. DF64 @ 9.5 starting point.",
+  "temperature": 93,
+  "phases": [
+    {
+      "name": "Fill",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 4,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 3, "flow": 4 }
+    },
+    {
+      "name": "Pre-infusion",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 6,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 3, "flow": 0 }
+    },
+    {
+      "name": "Ramp",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 5,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 3, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 9, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 9 }]
+    },
+    {
+      "name": "Hold",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 30,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 9, "flow": 0 },
+      "targets": [{ "type": "volumetric", "operator": "gte", "value": 38 }]
+    }
+  ]
+}

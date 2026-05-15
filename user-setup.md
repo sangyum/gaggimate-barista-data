@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Mostra Coffee — Ghost Bear
-- **Directory**: `coffees/mostra-ghost-bear/`
-- **Roast Date**: April 28, 2026
+- **Coffee**: Lavazza Espresso (Costco 100% Arabica)
+- **Directory**: `coffees/lavazza-espresso/`
+- **Roast Date**: April 1, 2026 (MFD on bag)
 
 ## Bluetooth Scale & Auto-Stop
 
