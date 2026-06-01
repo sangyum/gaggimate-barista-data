@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Lavazza Espresso (Costco 100% Arabica)
-- **Directory**: `coffees/lavazza-espresso/`
-- **Roast Date**: April 1, 2026 (MFD on bag)
+- **Coffee**: Mostra MVP Blend
+- **Directory**: `coffees/mostra-mvp-blend/`
+- **Roast Date**: April 28, 2026
 
 ## Bluetooth Scale & Auto-Stop
 
