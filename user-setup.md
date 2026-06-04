@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Mostra MVP Blend
-- **Directory**: `coffees/mostra-mvp-blend/`
-- **Roast Date**: April 28, 2026
+- **Coffee**: Verve Buena Vista Dark Roast Blend
+- **Directory**: `coffees/verve-buena-vista-dark-roast/`
+- **Roast Date**: May 20, 2026
 
 ## Bluetooth Scale & Auto-Stop
 

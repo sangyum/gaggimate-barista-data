@@ -1,0 +1,46 @@
+{
+  "label": "Verve Buena Vista Dark Gentle [AI]",
+  "type": "pro",
+  "description": "Dark roast blend (Colombia + East Africa). Chocolate, red apple, maple. Gentle 7.5 bar peak with decline to 5 bar. 18g in / 36g out. DF64 @ 10.0.",
+  "temperature": 89,
+  "phases": [
+    {
+      "name": "Fill",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 4,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 4 }
+    },
+    {
+      "name": "Bloom",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 5,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 1.5 }
+    },
+    {
+      "name": "Ramp",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 6,
+      "temperature": 0,
+      "transition": { "type": "ease-in", "duration": 4, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 7.5, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 7.5 }]
+    },
+    {
+      "name": "Decline",
+      "phase": "decline",
+      "valve": 1,
+      "duration": 45,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 28, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 5, "flow": 0 },
+      "targets": [{ "type": "volumetric", "operator": "gte", "value": 36 }]
+    }
+  ]
+}
