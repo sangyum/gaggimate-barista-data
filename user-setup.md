@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Verve Buena Vista Dark Roast Blend
-- **Directory**: `coffees/verve-buena-vista-dark-roast/`
-- **Roast Date**: May 20, 2026
+- **Coffee**: Bird Rock Blend (Costco)
+- **Directory**: `coffees/bird-rock-blend/`
+- **Roast Date**: Unknown (Best By 10/09/26)
 
 ## Bluetooth Scale & Auto-Stop
 
