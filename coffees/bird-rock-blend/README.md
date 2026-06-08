@@ -29,3 +29,7 @@ A daily-drinker blend designed for breadth: Colombian brightness balanced agains
 | Bird Rock Blend Classic [AI] | Classic 9-bar + light pre-infusion + gentle decline | 92°C | 9 bar peak → 6.5 bar tail | 1:2.2 (18g → 40g) | [classic-decline.json](classic-decline.json) |
 
 ## Tasting Notes
+
+| # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
+|---|------|------|-------|--------|-------|---------|---------|-------|--------------|
+| 1 | Jun 8 | 301 | DF64 9.5 | 18/40g | 1:2.24 | Classic Decline | Sour | 3 | Medium body, no sweetness, short finish, no specific flavor notes |

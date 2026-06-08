@@ -97,5 +97,16 @@
     "dose_out": 41.6,
     "bean_type": "Mostra Coffee \u2014 Ghost Bear",
     "timestamp": "2026-05-11T09:42:46.953145"
+  },
+  "000301": {
+    "shot_id": "000301",
+    "rating": 3,
+    "notes": "[Updated by AI]: Medium body, absent sweetness, short finish, no specific flavor notes. Under-extracted \u2014 main extraction ~29s, avg temp ran 1\u00b0C below profile target (91\u00b0C actual vs 92\u00b0C target).",
+    "balance_taste": "sour",
+    "grind_setting": "DF64 9.5",
+    "dose_in": 18.0,
+    "dose_out": 40.3,
+    "bean_type": "Bird Rock Blend (Costco)",
+    "timestamp": "2026-06-08T14:40:20.160496"
   }
 }
