@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Bird Rock Blend (Costco)
-- **Directory**: `coffees/bird-rock-blend/`
-- **Roast Date**: Unknown (Best By 10/09/26)
+- **Coffee**: Klatch Coffee Belle Espresso
+- **Directory**: `coffees/klatch-belle/`
+- **Roast Date**: 2026-06-12
 
 ## Bluetooth Scale & Auto-Stop
 

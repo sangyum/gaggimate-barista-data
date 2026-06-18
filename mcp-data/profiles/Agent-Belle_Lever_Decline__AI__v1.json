@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "profile_name": "Belle Lever Decline [AI]",
+  "timestamp": "2026-06-17T19:02:22.261374",
+  "profile": {
+    "id": "QmRAsp4abX",
+    "label": "Belle Lever Decline [AI]",
+    "type": "pro",
+    "description": "Profile: Belle Lever Decline [AI]",
+    "temperature": 91,
+    "favorite": false,
+    "selected": false,
+    "utility": false,
+    "phases": [
+      {
+        "name": "Fill",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 1,
+          "flow": 4
+        }
+      },
+      {
+        "name": "Bloom",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 1,
+          "flow": 1.5
+        }
+      },
+      {
+        "name": "Ramp",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 6,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 7.5,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "pressure",
+            "operator": "gte",
+            "value": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Decline",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 45,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "duration": 30,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 5,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "volumetric",
+            "operator": "gte",
+            "value": 36
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "action": "create",
+    "temperature": 91.0,
+    "phase_count": 4
+  }
+}
