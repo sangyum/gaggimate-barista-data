@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Klatch Coffee Belle Espresso
-- **Directory**: `coffees/klatch-belle/`
-- **Roast Date**: 2026-06-12
+- **Coffee**: Blue Bottle Tokyo Kissa
+- **Directory**: `coffees/blue-bottle-tokyo-kissa/`
+- **Roast Date**: 2026-06-04
 
 ## Bluetooth Scale & Auto-Stop
 

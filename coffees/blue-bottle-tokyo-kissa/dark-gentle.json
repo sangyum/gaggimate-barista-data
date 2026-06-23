@@ -1,0 +1,46 @@
+{
+  "label": "Tokyo Kissa Dark Gentle [AI]",
+  "type": "pro",
+  "description": "Blue Bottle Tokyo Kissa — Blue Bottle's darkest blend (Latin America + washed Ethiopian). Bittersweet cocoa, toasted marshmallow, vanilla. Gentle 7.0 bar peak with decline to 4.5 bar. 18g in / 36g out. DF64 @ 9.5.",
+  "temperature": 88,
+  "phases": [
+    {
+      "name": "Fill",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 4,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 4 }
+    },
+    {
+      "name": "Bloom",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 5,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 1.5 }
+    },
+    {
+      "name": "Ramp",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 6,
+      "temperature": 0,
+      "transition": { "type": "ease-in", "duration": 4, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 7.0, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 7.0 }]
+    },
+    {
+      "name": "Decline",
+      "phase": "decline",
+      "valve": 1,
+      "duration": 45,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 28, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 4.5, "flow": 0 },
+      "targets": [{ "type": "volumetric", "operator": "gte", "value": 36 }]
+    }
+  ]
+}
