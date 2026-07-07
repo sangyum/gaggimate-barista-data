@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Blue Bottle Tokyo Kissa
-- **Directory**: `coffees/blue-bottle-tokyo-kissa/`
-- **Roast Date**: 2026-06-04
+- **Coffee**: Filicori Zecchini Gran Crema Forte
+- **Directory**: `coffees/filicori-zecchini-gran-crema-forte/`
+- **Roast Date**: ~2026-04-15 (2–3 months ago, approximate)
 
 ## Bluetooth Scale & Auto-Stop
 
