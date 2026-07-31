@@ -1,0 +1,50 @@
+{
+  "id": "WawRvJL4AN",
+  "label": "Doge Rosso Lever Decline [AI]",
+  "type": "pro",
+  "description": "Italian 100% Arabica blend (BR/CO/GT/IN). Chocolate, low acidity. 18g in / 36g out. DF64 @ 9.5.",
+  "temperature": 91,
+  "favorite": false,
+  "selected": false,
+  "utility": false,
+  "phases": [
+    {
+      "name": "Fill",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 4,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 4 }
+    },
+    {
+      "name": "Bloom",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 4,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 1.5 }
+    },
+    {
+      "name": "Ramp",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 6,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 8, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 8 }]
+    },
+    {
+      "name": "Decline",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 45,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 30, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 5.5, "flow": 0 },
+      "targets": [{ "type": "volumetric", "operator": "gte", "value": 36 }]
+    }
+  ]
+}

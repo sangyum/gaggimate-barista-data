@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Filicori Zecchini Gran Crema Forte
-- **Directory**: `coffees/filicori-zecchini-gran-crema-forte/`
-- **Roast Date**: ~2026-04-15 (2–3 months ago, approximate)
+- **Coffee**: Caffè del Doge Doge Rosso
+- **Directory**: `coffees/caffe-del-doge-doge-rosso/`
+- **Roast Date**: 2026-07-06 (from production code `P060726`)
 
 ## Bluetooth Scale & Auto-Stop
 
