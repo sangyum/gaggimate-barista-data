@@ -29,3 +29,7 @@ A traditional Venetian espresso blend built for simplicity, low acidity, and cho
 | Doge Rosso Lever Decline [AI] | Lever decline (8 bar → 5.5 bar) | 91°C | 8 bar peak | 1:2 (18g → 36g) | [lever-decline.json](lever-decline.json) |
 
 ## Tasting Notes
+
+| # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
+|---|------|------|-------|--------|-------|---------|---------|-------|--------------|
+| 1 | Jul 31 | — | DF64 9 | 18/29g | 1:1.61 | Lever Decline | Balanced | 4 | Full body, sweetness present, clean, nutty. Ristretto — stopped short of 36g target |
