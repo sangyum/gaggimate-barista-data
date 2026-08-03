@@ -33,3 +33,4 @@ A traditional Venetian espresso blend built for simplicity, low acidity, and cho
 | # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
 |---|------|------|-------|--------|-------|---------|---------|-------|--------------|
 | 1 | Jul 31 | — | DF64 9 | 18/29g | 1:1.61 | Lever Decline | Balanced | 4 | Full body, sweetness present, clean, nutty. Grind too fine — shot ran out the 45s Decline window before hitting 36g |
+| 2 | Aug 3 | — | DF64 10.7 | 18.3g | — | Lever Decline | Balanced | 4.5 | Full body, pronounced sweetness after initial bitterness on first sip, clean finish. Coarsened from 9 after slow extractions |
