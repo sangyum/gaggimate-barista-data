@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Caffè del Doge Doge Rosso
-- **Directory**: `coffees/caffe-del-doge-doge-rosso/`
-- **Roast Date**: 2026-07-06 (from production code `P060726`)
+- **Coffee**: Lavazza Caffè Espresso (1kg, 100% Arabica)
+- **Directory**: `coffees/lavazza-espresso/`
+- **Roast Date**: ~2026-04-30 (estimated from best-by 04/30/2028; workhorse bag for americanos)
 
 ## Bluetooth Scale & Auto-Stop
 

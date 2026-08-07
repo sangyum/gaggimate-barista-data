@@ -12,8 +12,8 @@
 | **Variety** | Multi-variety blend (not disclosed) |
 | **Altitude** | Not disclosed |
 | **Tasting Notes** | "Aromatic and Velvety" — full body, intensity 5/10. Expect chocolate, nutty, mild caramel notes. |
-| **Roast Date (MFD)** | April 1, 2026 |
-| **Best By** | March 30, 2028 |
+| **Roast Date (MFD)** | ~April 30, 2026 (estimated from best-by; second bag) |
+| **Best By** | April 30, 2028 |
 
 ## What to Expect
 
