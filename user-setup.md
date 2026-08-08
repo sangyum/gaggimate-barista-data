@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Lavazza Caffè Espresso (1kg, 100% Arabica)
-- **Directory**: `coffees/lavazza-espresso/`
-- **Roast Date**: ~2026-04-30 (estimated from best-by 04/30/2028; workhorse bag for americanos)
+- **Coffee**: The Little Marionette Sanchez (Blend 7)
+- **Directory**: `coffees/little-marionette-sanchez/`
+- **Roast Date**: 2026-07-27
 
 ## Bluetooth Scale & Auto-Stop
 
