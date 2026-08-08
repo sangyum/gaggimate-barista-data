@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: The Little Marionette Sanchez (Blend 7)
-- **Directory**: `coffees/little-marionette-sanchez/`
-- **Roast Date**: 2026-07-27
+- **Coffee**: Magnolia Coffee Las Lajas Double Diamond
+- **Directory**: `coffees/magnolia-las-lajas-double-diamond/`
+- **Roast Date**: 2026-07-29
 
 ## Bluetooth Scale & Auto-Stop
 
