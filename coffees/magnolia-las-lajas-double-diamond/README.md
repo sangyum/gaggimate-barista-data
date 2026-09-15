@@ -28,6 +28,6 @@ A boundary-pushing Costa Rican from one of the country's most inventive processi
 
 | Profile | Style | Temp | Pressure | Ratio | File |
 |---------|-------|------|----------|-------|------|
-| Double Diamond Bloom Decline [AI] | True bloom + lever decline (8→5 bar) | 94°C | 8 bar peak | 1:2.5 (18g→45g) | [bloom-decline.json](bloom-decline.json) |
+| Double Diamond Bloom Decline [AI] | True bloom + lever decline (6.5→4 bar) | 94°C | 6.5 bar peak | 1:2.5 (18g→45g) | [bloom-decline.json](bloom-decline.json) |
 
 ## Tasting Notes

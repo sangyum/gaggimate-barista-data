@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Magnolia Coffee Las Lajas Double Diamond
-- **Directory**: `coffees/magnolia-las-lajas-double-diamond/`
-- **Roast Date**: 2026-07-29
+- **Coffee**: Beaucoup Bakery Parisian Roast
+- **Directory**: `coffees/beaucoup-parisian-roast/`
+- **Roast Date**: —
 
 ## Bluetooth Scale & Auto-Stop
 

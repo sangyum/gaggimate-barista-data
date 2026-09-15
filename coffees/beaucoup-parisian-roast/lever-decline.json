@@ -1,0 +1,37 @@
+{
+  "label": "Parisian Lever Decline [AI]",
+  "type": "pro",
+  "description": "Lever-style declining pressure for medium-dark blend - chocolate and caramel focused",
+  "temperature": 91,
+  "phases": [
+    {
+      "name": "Pre-infusion",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 5,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 8, "flow": 3 }
+    },
+    {
+      "name": "Peak",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 5,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 3, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 8, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 7.5 }]
+    },
+    {
+      "name": "Decline",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 35,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 25, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 3, "flow": 0 },
+      "targets": [{ "type": "volumetric", "operator": "gte", "value": 40 }]
+    }
+  ]
+}

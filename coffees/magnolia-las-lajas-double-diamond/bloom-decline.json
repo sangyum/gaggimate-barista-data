@@ -1,7 +1,7 @@
 {
   "label": "Double Diamond Bloom Decline [AI]",
   "type": "pro",
-  "description": "Magnolia Las Lajas Double Diamond. Costa Rica anaerobic natural, Sarchimor, 1600m. Peach, amaretto, citrus. 18g in / 45g out. DF64 @ 9.5.",
+  "description": "Magnolia Las Lajas Double Diamond. Costa Rica anaerobic natural, Sarchimor, 1600m. Peach, amaretto, citrus. 18g in / 45g out. DF64 @ 8.5-9. Low-pressure to prevent channeling.",
   "temperature": 94,
   "favorite": false,
   "selected": false,
@@ -32,8 +32,8 @@
       "duration": 5,
       "temperature": 0,
       "transition": { "type": "linear", "duration": 5, "adaptive": true },
-      "pump": { "target": "pressure", "pressure": 8, "flow": 0 },
-      "targets": [{ "type": "pressure", "operator": "gte", "value": 8 }]
+      "pump": { "target": "pressure", "pressure": 6.5, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 6.5 }]
     },
     {
       "name": "Peak",
@@ -42,7 +42,7 @@
       "duration": 6,
       "temperature": 0,
       "transition": { "type": "instant", "duration": 0, "adaptive": true },
-      "pump": { "target": "pressure", "pressure": 8, "flow": 0 }
+      "pump": { "target": "pressure", "pressure": 6.5, "flow": 0 }
     },
     {
       "name": "Decline",
@@ -51,7 +51,7 @@
       "duration": 50,
       "temperature": 0,
       "transition": { "type": "linear", "duration": 32, "adaptive": true },
-      "pump": { "target": "pressure", "pressure": 5, "flow": 0 },
+      "pump": { "target": "pressure", "pressure": 4, "flow": 0 },
       "targets": [{ "type": "volumetric", "operator": "gte", "value": 45 }]
     }
   ]
