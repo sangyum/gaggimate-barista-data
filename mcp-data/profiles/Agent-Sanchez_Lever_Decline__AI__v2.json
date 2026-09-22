@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "profile_name": "Sanchez Lever Decline [AI]",
+  "timestamp": "2026-09-22T07:27:44.307192",
+  "profile": {
+    "id": "9ecQXDgAQf",
+    "label": "Sanchez Lever Decline [AI]",
+    "type": "pro",
+    "description": "Profile: Sanchez Lever Decline [AI]",
+    "temperature": 91,
+    "favorite": false,
+    "selected": false,
+    "utility": false,
+    "phases": [
+      {
+        "name": "Pre-infusion",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 5,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 9,
+          "flow": 3
+        }
+      },
+      {
+        "name": "Peak",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 5,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "duration": 3,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 9,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "pressure",
+            "operator": "gte",
+            "value": 8.5
+          }
+        ]
+      },
+      {
+        "name": "Decline",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 35,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "duration": 25,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 3,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "volumetric",
+            "operator": "gte",
+            "value": 36
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "action": "create",
+    "temperature": 91.0,
+    "phase_count": 3
+  }
+}

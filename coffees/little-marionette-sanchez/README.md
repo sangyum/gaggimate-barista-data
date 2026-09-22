@@ -7,7 +7,7 @@
 | **Roaster** | The Little Marionette (Rozelle, Sydney) |
 | **Origin** | Blend — component origins not publicly disclosed |
 | **Process** | Blend (unspecified) |
-| **Roast Level** | Dark (roaster's darkest offering) |
+| **Roast Level** | Medium-dark (roaster's darkest offering; lighter in appearance than a true dark roast) |
 | **Variety** | Not disclosed |
 | **Altitude** | Not disclosed |
 | **Tasting Notes** | Dark chocolate, black cherry, spice |
@@ -15,16 +15,16 @@
 
 ## What to Expect
 
-Sanchez is Little Marionette's darkest roast — a chocolate-forward Australian espresso blend built for milk and long blacks, with a spice-tinged finish that keeps it from feeling one-note. At 12 days off roast it's in the sweet window: CO2 settled, oils integrated, no roast harshness.
+Sanchez is Little Marionette's boldest blend — a chocolate-and-black-cherry backbone with a spice-tinged finish. Despite the "darkest roast" label, the beans show a medium-dark color, suggesting a specialty-style roast that leans dark without tipping into Italian roast territory. That makes 91°C and a full 9-bar lever decline more appropriate than the cooler/lower-pressure dark roast approach.
 
 - **Blend character:** Dark blends prioritize consistency and body over origin transparency. Expect low acidity, syrupy mouthfeel, and a bittersweet chocolate spine.
-- **Roast level (dark):** Beans are more brittle and solubles come out fast — hence coarser grind, cooler water, and gentler pressure. Over-pull it and the spice turns to ash.
-- **Fit with your palate:** This sits *darker* than your usual medium/medium-dark sweet spot. It'll shine as an aerocano (dilution softens roast intensity) and should be excellent for latte practice given the strong chocolate backbone.
+- **Age (57 days):** Well past the roaster's 30-day freshness window. CO2 is fully off-gassed — expect faster flow and less puck resistance than a fresh bag. Start at DF64 9.0–9.5 and be ready to go finer if shots run fast.
+- **Fit with your palate:** Dark chocolate and cherry translate well into aerocanos — dilution softens any roast edge and lets the fruit notes open up.
 
 ## Profiles
 
 | Profile | Style | Temp | Pressure | Ratio | File |
 |---------|-------|------|----------|-------|------|
-| Sanchez Lever Decline [AI] | Lever decline (7.5→5 bar) | 89°C | 7.5 bar peak | 1:2.2 (18g→40g) | [lever-decline.json](lever-decline.json) |
+| Sanchez Lever Decline [AI] | Lever decline (9→3 bar) | 91°C | 9 bar peak | 1:2 (18g→36g) | [lever-decline.json](lever-decline.json) |
 
 ## Tasting Notes

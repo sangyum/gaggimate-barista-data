@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Beaucoup Bakery Parisian Roast
-- **Directory**: `coffees/beaucoup-parisian-roast/`
-- **Roast Date**: —
+- **Coffee**: The Little Marionette Blend Seven: Sanchez
+- **Directory**: `coffees/little-marionette-sanchez/`
+- **Roast Date**: 2026-07-27
 
 ## Bluetooth Scale & Auto-Stop
 
