@@ -28,3 +28,7 @@ Sanchez is Little Marionette's boldest blend — a chocolate-and-black-cherry ba
 | Sanchez Lever Decline [AI] | Lever decline (9→3 bar) | 91°C | 9 bar peak | 1:2 (18g→36g) | [lever-decline.json](lever-decline.json) |
 
 ## Tasting Notes
+
+| # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
+|---|------|------|-------|--------|-------|---------|---------|-------|--------------|
+| 1 | Sep 22 | 516 | DF64 9 | 18/~31g | ~1:1.7 | Lever Decline | Sour | 3.5 | Full body, sour throughout |

@@ -23,6 +23,7 @@ A personal record of successful grind settings that grows from your shots. When 
 | Bird Rock Blend (Costco) | Medium | Washed | Colombia + Sumatra | — | DF64 9.5 | Bird Rock Blend Classic [AI] | 1:2.24 | 92°C | 3 | Jun 8 | |
 | Caffè del Doge Doge Rosso | Medium-Dark | Washed | Brazil + Colombia + Guatemala + India (blend) | 25 | DF64 9 | Doge Rosso Lever Decline [AI] | 1:1.61 | 91°C | 4 | Jul 31 | |
 | Caffè del Doge Doge Rosso | Medium-Dark | Washed | Brazil + Colombia + Guatemala + India (blend) | 28 | DF64 10.7 | Doge Rosso Lever Decline [AI] | — | 91°C | 4.5 | Aug 3 | |
+| Little Marionette Sanchez | Medium-Dark | Blend | Blend | 57 | DF64 9 |  | Sanchez Lever Decline [AI] | ~1:1.7 | 91°C | 3.5 | Sep 22 |  |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 

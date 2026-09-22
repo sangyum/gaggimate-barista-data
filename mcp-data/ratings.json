@@ -108,5 +108,16 @@
     "dose_out": 40.3,
     "bean_type": "Bird Rock Blend (Costco)",
     "timestamp": "2026-06-08T14:40:20.160496"
+  },
+  "000516": {
+    "shot_id": "000516",
+    "rating": 4,
+    "notes": "[Updated by AI]: Full body, sour throughout. Grind DF64 9, 18g in.",
+    "balance_taste": "sour",
+    "grind_setting": "DF64 9",
+    "dose_in": 18.0,
+    "dose_out": 31.0,
+    "bean_type": "The Little Marionette Blend Seven: Sanchez",
+    "timestamp": "2026-09-22T09:18:59.786430"
   }
 }
