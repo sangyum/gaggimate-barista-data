@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: The Little Marionette Blend Seven: Sanchez
-- **Directory**: `coffees/little-marionette-sanchez/`
-- **Roast Date**: 2026-07-27
+- **Coffee**: Mad Dogs & Englishmen Royal Hound
+- **Directory**: `coffees/mad-dogs-royal-hound/`
+- **Roast Date**: 2026-07-02
 
 ## Bluetooth Scale & Auto-Stop
 
