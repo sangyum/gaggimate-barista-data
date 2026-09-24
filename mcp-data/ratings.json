@@ -119,5 +119,16 @@
     "dose_out": 31.0,
     "bean_type": "The Little Marionette Blend Seven: Sanchez",
     "timestamp": "2026-09-22T09:18:59.786430"
+  },
+  "000526": {
+    "shot_id": "000526",
+    "rating": 4,
+    "notes": "[Updated by AI]: Slight bitterness, no sweetness, citrus present. 84 days off roast, first shot. Shot overshot 41g target to ~44g. Next: cut volumetric to 36g.",
+    "balance_taste": "bitter",
+    "grind_setting": "DF64 8.5",
+    "dose_in": 18.0,
+    "dose_out": 43.6,
+    "bean_type": "Mad Dogs & Englishmen Royal Hound",
+    "timestamp": "2026-09-24T10:13:36.720019"
   }
 }

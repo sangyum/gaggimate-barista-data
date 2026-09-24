@@ -25,6 +25,8 @@ A personal record of successful grind settings that grows from your shots. When 
 | Caffè del Doge Doge Rosso | Medium-Dark | Washed | Brazil + Colombia + Guatemala + India (blend) | 28 | DF64 10.7 | Doge Rosso Lever Decline [AI] | — | 91°C | 4.5 | Aug 3 | |
 | Little Marionette Sanchez | Medium-Dark | Blend | Blend | 57 | DF64 9 |  | Sanchez Lever Decline [AI] | ~1:1.7 | 91°C | 3.5 | Sep 22 |  |
 
+| Mad Dogs & Englishmen Royal Hound | Medium | Washed | Guatemala (Atitlán) | 84 | DF64 8.5 |  | Royal Hound Bloom Decline [AI] | 1:2.42 | 93°C | 4 | Sep 24 |  |
+
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 
 ---

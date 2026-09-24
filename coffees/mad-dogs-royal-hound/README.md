@@ -30,3 +30,7 @@ A standing medium-roast offering sourced through Dieseldorff Kaffee, a small-bat
 | Royal Hound Bloom Decline [AI] | Bloom + 9-bar Hold + Gentle Decline | 93°C | 9 bar | 1:2.3 (18g → 41g) | [bloom-decline.json](bloom-decline.json) |
 
 ## Tasting Notes
+
+| # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
+|---|------|------|-------|--------|-------|---------|---------|-------|--------------|
+| 1 | Sep 24 | 526 | DF64 8.5 | 18/44g | 1:2.42 | Bloom Decline | Bitter | ★★★★ | Slight bitterness, no sweetness, citrus present; 84 days off roast |
