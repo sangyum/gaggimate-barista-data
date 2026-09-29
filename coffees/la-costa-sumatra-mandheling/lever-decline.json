@@ -1,0 +1,40 @@
+{
+  "label": "La Costa Sumatra Lever Decline [AI]",
+  "type": "pro",
+  "description": "Med-dark wet-hulled Sumatra. Earthy chocolate, spice. 18g in / 36g out. DF64 ~9–9.5.",
+  "temperature": 91,
+  "phases": [
+    {
+      "name": "Fill",
+      "phase": "preinfusion",
+      "valve": 1,
+      "duration": 3,
+      "temperature": 0,
+      "transition": { "type": "instant", "duration": 0, "adaptive": true },
+      "pump": { "target": "flow", "pressure": 1, "flow": 4 }
+    },
+    {
+      "name": "Ramp",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 6,
+      "temperature": 0,
+      "transition": { "type": "ease-in", "duration": 3, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 7.5, "flow": 0 },
+      "targets": [{ "type": "pressure", "operator": "gte", "value": 7.5 }]
+    },
+    {
+      "name": "Decline",
+      "phase": "brew",
+      "valve": 1,
+      "duration": 45,
+      "temperature": 0,
+      "transition": { "type": "linear", "duration": 25, "adaptive": true },
+      "pump": { "target": "pressure", "pressure": 3.5, "flow": 0 },
+      "targets": [
+        { "type": "volumetric", "operator": "gte", "value": 36 },
+        { "type": "pumped", "operator": "gte", "value": 72 }
+      ]
+    }
+  ]
+}

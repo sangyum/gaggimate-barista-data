@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Mad Dogs & Englishmen Royal Hound
-- **Directory**: `coffees/mad-dogs-royal-hound/`
-- **Roast Date**: 2026-07-02
+- **Coffee**: La Costa Coffee Sumatra Mandheling
+- **Directory**: `coffees/la-costa-sumatra-mandheling/`
+- **Roast Date**: Unknown
 
 ## Bluetooth Scale & Auto-Stop
 
