@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: La Costa Coffee Sumatra Mandheling
-- **Directory**: `coffees/la-costa-sumatra-mandheling/`
-- **Roast Date**: Unknown
+- **Coffee**: Manzanita Colombia Community Lot
+- **Directory**: `coffees/manzanita-colombia-community-lot/`
+- **Roast Date**: Oct 1, 2026
 
 ## Bluetooth Scale & Auto-Stop
 
