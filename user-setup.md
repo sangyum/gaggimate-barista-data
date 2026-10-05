@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Manzanita Colombia Community Lot
-- **Directory**: `coffees/manzanita-colombia-community-lot/`
-- **Roast Date**: Oct 1, 2026
+- **Coffee**: Home Coffee Roasters Peru Organic Cajamarca
+- **Directory**: `coffees/home-coffee-peru-cajamarca/`
+- **Roast Date**: Aug 5, 2026
 
 ## Bluetooth Scale & Auto-Stop
 
