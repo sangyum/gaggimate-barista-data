@@ -26,6 +26,7 @@ A personal record of successful grind settings that grows from your shots. When 
 | Little Marionette Sanchez | Medium-Dark | Blend | Blend | 57 | DF64 9 |  | Sanchez Lever Decline [AI] | ~1:1.7 | 91°C | 3.5 | Sep 22 |  |
 
 | Mad Dogs & Englishmen Royal Hound | Medium | Washed | Guatemala (Atitlán) | 84 | DF64 8.5 |  | Royal Hound Bloom Decline [AI] | 1:2.42 | 93°C | 4 | Sep 24 |  |
+| Home Coffee Peru Cajamarca | Light-Medium | Washed | Peru (Cajamarca) | 61 | DF64 7 |  | Peru Cajamarca Bloom Decline [AI] | 1:2.23 | 93°C | 2.5 | Oct 5 |  |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 

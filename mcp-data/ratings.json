@@ -130,5 +130,16 @@
     "dose_out": 43.6,
     "bean_type": "Mad Dogs & Englishmen Royal Hound",
     "timestamp": "2026-09-24T10:13:36.720019"
+  },
+  "000538": {
+    "shot_id": "000538",
+    "rating": 3,
+    "notes": "[Updated by AI]: Balanced but watery. 61 days off roast \u2014 aromatics depleted. Ratio too long. Next: 36g target.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 7",
+    "dose_in": 18.2,
+    "dose_out": 40.6,
+    "bean_type": "Home Coffee Roasters Peru Organic Cajamarca",
+    "timestamp": "2026-10-05T10:35:48.424322"
   }
 }

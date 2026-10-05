@@ -2,7 +2,7 @@
   "id": "jZHGgdbXBN",
   "label": "Peru Cajamarca Bloom Decline [AI]",
   "type": "pro",
-  "description": "Light-med washed Peru Cajamarca. Jasmine, nutmeg, tangerine. 18g in / 41g out. DF64 @ 9. Bloom for sweetness on washed floral.",
+  "description": "Light-med washed Peru Cajamarca. Jasmine, nutmeg, tangerine. 18g in / 36g out. DF64 @ 7. Bloom for sweetness on washed floral. Tighter ratio for stale bag.",
   "temperature": 93,
   "phases": [
     {
@@ -51,7 +51,7 @@
       "transition": { "type": "linear", "duration": 20, "adaptive": true },
       "pump": { "target": "pressure", "pressure": 6, "flow": 0 },
       "targets": [
-        { "type": "volumetric", "operator": "gte", "value": 41 },
+        { "type": "volumetric", "operator": "gte", "value": 36 },
         { "type": "pumped", "operator": "gte", "value": 120 }
       ]
     }

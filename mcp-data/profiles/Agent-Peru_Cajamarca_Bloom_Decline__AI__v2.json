@@ -1,0 +1,131 @@
+{
+  "version": 2,
+  "profile_name": "Peru Cajamarca Bloom Decline [AI]",
+  "timestamp": "2026-10-05T10:37:10.265257",
+  "profile": {
+    "id": "jZHGgdbXBN",
+    "label": "Peru Cajamarca Bloom Decline [AI]",
+    "type": "pro",
+    "description": "Profile: Peru Cajamarca Bloom Decline [AI]",
+    "temperature": 93,
+    "favorite": false,
+    "selected": false,
+    "utility": false,
+    "phases": [
+      {
+        "name": "Fill",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 5,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "target": "time",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 2,
+          "flow": 2
+        }
+      },
+      {
+        "name": "Bloom",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 8,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "target": "time",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 0,
+          "flow": 0
+        }
+      },
+      {
+        "name": "Ramp",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 5,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "target": "time",
+          "duration": 4,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 9,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "pressure",
+            "operator": "gte",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "name": "Hold",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 25,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "target": "time",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 9,
+          "flow": 0
+        }
+      },
+      {
+        "name": "Decline",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 45,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "target": "time",
+          "duration": 20,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 6,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "volumetric",
+            "operator": "gte",
+            "value": 36
+          },
+          {
+            "type": "pumped",
+            "operator": "gte",
+            "value": 120
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "action": "update",
+    "temperature": 93,
+    "phase_count": 5
+  }
+}

@@ -30,3 +30,7 @@ A classically structured washed Peruvian from Cajamarca — known for clean, bal
 | Peru Cajamarca Bloom Decline [AI] | Bloom + Decline | 93°C | 9→6 bar | 1:2.3 (18g→41g) | [bloom-decline.json](bloom-decline.json) |
 
 ## Tasting Notes
+
+| # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
+|---|------|------|-------|--------|-------|---------|---------|-------|--------------|
+| 1 | Oct 5 | 538 | DF64 7 | 18.2/40.6g | 1:2.23 | Bloom Decline | Balanced | 2.5 | Watery, flat — staleness evident; ratio too long |
