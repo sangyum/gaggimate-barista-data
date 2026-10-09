@@ -34,3 +34,4 @@ A classically structured washed Peruvian from Cajamarca — known for clean, bal
 | # | Date | Shot | Grind | In/Out | Ratio | Profile | Balance | Stars | Observations |
 |---|------|------|-------|--------|-------|---------|---------|-------|--------------|
 | 1 | Oct 5 | 538 | DF64 7 | 18.2/40.6g | 1:2.23 | Bloom Decline | Balanced | 2.5 | Watery, flat — staleness evident; ratio too long |
+| 2 | Oct 9 | — | DF64 7 | 18.3/40.8g | 1:2.23 | Bloom Decline | Sour | 3 | Full body, sour — increase yield to 46g next shot |
