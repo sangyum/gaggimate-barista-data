@@ -28,6 +28,7 @@ A personal record of successful grind settings that grows from your shots. When 
 | Mad Dogs & Englishmen Royal Hound | Medium | Washed | Guatemala (Atitlán) | 84 | DF64 8.5 |  | Royal Hound Bloom Decline [AI] | 1:2.42 | 93°C | 4 | Sep 24 |  |
 | Home Coffee Peru Cajamarca | Light-Medium | Washed | Peru (Cajamarca) | 61 | DF64 7 |  | Peru Cajamarca Bloom Decline [AI] | 1:2.23 | 93°C | 2.5 | Oct 5 |  |
 | Home Coffee Peru Cajamarca | Light-Medium | Washed | Peru (Cajamarca) | 65 | DF64 7 |  | Peru Cajamarca Bloom Decline [AI] | 1:2.23 | 93°C | 3 | Oct 9 |  |
+| Mostra Ghost Bear (bag 2) | Medium | Pulped Natural + Washed (blend) | Philippines + Latin America | 16 | DF64 10 | Ghost Bear Bloom Decline [AI] | 1:2.1 | 93°C | 4 | Nov 19 |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 

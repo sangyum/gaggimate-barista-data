@@ -141,5 +141,16 @@
     "dose_out": 40.6,
     "bean_type": "Home Coffee Roasters Peru Organic Cajamarca",
     "timestamp": "2026-10-05T10:35:48.424322"
+  },
+  "000554": {
+    "shot_id": "000554",
+    "rating": 4,
+    "notes": "[Updated by AI]: Americano: balanced, preferred over 9.5. 67s total; temp avg 92.0 vs 93 set. Next: 10.5.",
+    "balance_taste": "balanced",
+    "grind_setting": "DF64 10",
+    "dose_in": 18.0,
+    "dose_out": 38.0,
+    "bean_type": "Mostra Ghost Bear (Nov 3 roast, 16d)",
+    "timestamp": "2026-11-19T09:50:38.805279"
   }
 }

@@ -35,6 +35,6 @@ Ghost Bear is a four-origin espresso blend anchored by the Philippines Sitio Bel
 | 1 | May 11 | 000098 | DF64 9.5 | 18/41.6g | 1:2.3 | Bloom Decline | Balanced | 4 | Full body, clean finish, chocolate + stone fruit. Sweetness absent — actual temp ran 0.7°C cool. |
 | 2 | Nov 19 | 000552 | DF64 9 | 18/~35g | ~1:1.9 | Bloom Decline | — | — | Bag 2, 16d off roast. 80s total. Not tasted (served to someone else). |
 | 3 | Nov 19 | 000553 | DF64 9.5 | 18/~39g | ~1:2.2 | Bloom Decline | — | — | 73s total — much slower than bag 1 at the same grind. Americano "okay". |
-| 4 | Nov 19 | 000554 | DF64 10 | 18/38.0g | 1:2.1 | Bloom Decline | Balanced | — | 67s total, first drip 22.9s, temp avg 92.0°C vs 93 set. Americano balanced; preferred over 9.5. |
+| 4 | Nov 19 | 000554 | DF64 10 | 18/38.0g | 1:2.1 | Bloom Decline | Balanced | 4 | 67s total, first drip 22.9s, temp avg 92.0°C vs 93 set. Americano balanced; preferred over 9.5. |
 
 **Bag 2 note:** Puck runs tighter than bag 1 — each +0.5 coarser cuts ~6–7s. Scale auto-delay (1750ms) now lands the stop on target, so bag 1's ~3.6g overshoot no longer applies.
