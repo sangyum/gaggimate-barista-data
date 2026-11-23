@@ -35,9 +35,9 @@
 
 ## Active Coffee
 
-- **Coffee**: Mostra Coffee Ghost Bear
-- **Directory**: `coffees/mostra-ghost-bear/`
-- **Roast Date**: Nov 3, 2026
+- **Coffee**: Bird Rock Coffee Roasters Winter Swell Seasonal Blend
+- **Directory**: `coffees/bird-rock-winter-swell/`
+- **Roast Date**: ~Nov 4, 2026 (inferred from lot code WS3091104261)
 
 ## Bluetooth Scale & Auto-Stop
 

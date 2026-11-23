@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "profile_name": "Winter Swell Lever Decline [AI]",
+  "timestamp": "2026-11-23T15:47:41.691572",
+  "profile": {
+    "id": "xn6BAGpC7w",
+    "label": "Winter Swell Lever Decline [AI]",
+    "type": "pro",
+    "description": "Profile: Winter Swell Lever Decline [AI]",
+    "temperature": 91,
+    "dose": 0,
+    "favorite": false,
+    "selected": false,
+    "utility": false,
+    "phases": [
+      {
+        "name": "Fill",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "target": "time",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 1,
+          "flow": 4
+        }
+      },
+      {
+        "name": "Bloom",
+        "phase": "preinfusion",
+        "valve": 1,
+        "duration": 4,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "target": "time",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "flow",
+          "pressure": 1,
+          "flow": 1.5
+        }
+      },
+      {
+        "name": "Ramp",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 6,
+        "temperature": 0,
+        "transition": {
+          "type": "instant",
+          "target": "time",
+          "duration": 0,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 8,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "pressure",
+            "operator": "gte",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "Decline",
+        "phase": "brew",
+        "valve": 1,
+        "duration": 45,
+        "temperature": 0,
+        "transition": {
+          "type": "linear",
+          "target": "time",
+          "duration": 30,
+          "adaptive": true
+        },
+        "pump": {
+          "target": "pressure",
+          "pressure": 5.5,
+          "flow": 0
+        },
+        "targets": [
+          {
+            "type": "volumetric",
+            "operator": "gte",
+            "value": 36
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "action": "create",
+    "temperature": 91.0,
+    "phase_count": 4
+  }
+}
