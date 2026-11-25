@@ -29,6 +29,7 @@ A personal record of successful grind settings that grows from your shots. When 
 | Home Coffee Peru Cajamarca | Light-Medium | Washed | Peru (Cajamarca) | 61 | DF64 7 |  | Peru Cajamarca Bloom Decline [AI] | 1:2.23 | 93°C | 2.5 | Oct 5 |  |
 | Home Coffee Peru Cajamarca | Light-Medium | Washed | Peru (Cajamarca) | 65 | DF64 7 |  | Peru Cajamarca Bloom Decline [AI] | 1:2.23 | 93°C | 3 | Oct 9 |  |
 | Mostra Ghost Bear (bag 2) | Medium | Pulped Natural + Washed (blend) | Philippines + Latin America | 16 | DF64 10 | Ghost Bear Bloom Decline [AI] | 1:2.1 | 93°C | 4 | Nov 19 |
+| Bird Rock Winter Swell (Costco) | Medium-Dark | Blend (likely washed) | Guatemala + Brazil + Colombia | 21 | DF64 12.5 | Winter Swell Lever Decline [AI] | 1:1.99 | 91°C | 3.5 | Nov 25 |
 
 *Days Off Roast is optional—use "—" when roast date is unknown.*
 

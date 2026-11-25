@@ -152,5 +152,16 @@
     "dose_out": 38.0,
     "bean_type": "Mostra Ghost Bear (Nov 3 roast, 16d)",
     "timestamp": "2026-11-19T09:50:38.805279"
+  },
+  "000569": {
+    "shot_id": "000569",
+    "rating": 4,
+    "notes": "[Updated by AI]: 3.5\u2605. Full body, some sweetness, mildly bitter. No distinct origin notes. 41s total, slow.",
+    "balance_taste": "bitter",
+    "grind_setting": "DF64 12.5",
+    "dose_in": 18.0,
+    "dose_out": 35.8,
+    "bean_type": "Bird Rock Coffee Roasters Winter Swell Seasonal Blend",
+    "timestamp": "2026-11-25T06:53:47.184017"
   }
 }
